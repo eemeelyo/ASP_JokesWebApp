@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\data\\migrations\\20240916215545_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:data\\migrations\\20240916215545_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|c:\\users\\tanke\\onedrive\\aspdotnet\\jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F5CFD1F-66E6-4340-AAE8-A033785BCE7D}|JokesWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240916215545_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\Migrations\\20240916215545_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240916215545_initialsetup.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\Migrations\\20240916215545_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240916215545_initialsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:55:46.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:48:13.397Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -30,7 +76,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:45:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:57:21.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeToolTip": "Models\\Joke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:54:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -43,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
