@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
               "ToolTip": "C:\\Users\\tanke\\OneDrive\\ASPdotNET\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
               "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T12:21:01.314Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T11:51:57.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T11:51:57.228Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "Controllers\\JokesController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAmwCYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:45:44.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:45:44.624Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "Models\\Joke.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:54:08.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T20:54:08.796Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T13:28:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T13:28:24.541Z"
             },
             {
               "$type": "Document",
@@ -155,8 +151,7 @@
               "RelativeToolTip": "Data\\Migrations\\20240916215545_initialsetup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:55:46.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:55:46.029Z"
             },
             {
               "$type": "Document",
